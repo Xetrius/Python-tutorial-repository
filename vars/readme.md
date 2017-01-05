@@ -5,7 +5,7 @@
 
     def fun1():                           # the fun1 function
         global a                          # sets 'a' as global, global must be declared before Var is set  
-        a = int(input("set var a\n"))     # the var
+        a = int(input("set var a\n"))     # get the "var" from user, as an "int", print w/new line
 
     fun1()                                # run fun1 function
     print(a)                              # prints "a" from fun1 function
@@ -32,7 +32,7 @@ both files must be in same directory
 ### settings.py ###
     def fun1():      # defines the function fun1
         global a      # sets "a" as a global var
-        a = 7823     # the var "a"
+        a = 6666     # the var "a"
 ### EOF ###
 
 ####  main.py ###
@@ -43,7 +43,7 @@ both files must be in same directory
 ### EOF ###
 
 ### output of main.py ###
-7823   
+6666 
 #####
 
 what we have learned 
@@ -69,9 +69,4 @@ what we have learned
     fun2()
 
 ### EOF ###
- output
 
-7823
-7823
-
-#
