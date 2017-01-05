@@ -1,4 +1,5 @@
-15a (Global Variables)
+
+#a (Global Variables)
 
 ### main.py ### 
 
@@ -15,14 +16,14 @@
 iputed var
 #####
 
-# what we have learned
-##  if (the function is called) and (the var is global) the var can be reused outside the function
+what we have learned
+if (the function is called) and (the var is global) the var can be reused outside the function
 
 #####
 
 
 
-15b   (calling a function var from another file)
+#b   (calling a function var from another file)
 
 lets rename main.py to settings.py because" import main" throws all kinds of errors
 
@@ -45,14 +46,14 @@ both files must be in same directory
 7823   
 #####
 
-# what we have learned 
-##  (import name) with a (.) is setup for (running python commands as normal) from imported file
+what we have learned 
+(import name) with a (.) is setup for (running python commands as normal) from imported file
 
 ####
 
 
 
-15c ( call a var from a function by another function? (is this worded right?lol) )
+#c ( call a var from a function by another function? (is this worded right?lol) )
 
 ### main.py ###
     def fun1():
