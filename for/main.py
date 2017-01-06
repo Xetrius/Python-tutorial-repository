@@ -3,6 +3,7 @@ for a in var1:
     print(a)
 
 print("#range")
-var2 = int(input("count to?\n"))
-for b in range(1,var2):
+var2 = int(input("count from?\n"))
+var3 = int(input("count to?\n"))
+for b in range(var2,var3):
     print(b)
