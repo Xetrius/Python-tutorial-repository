@@ -1,6 +1,6 @@
 #fun
 
 ##JP
-    you didnt say the magic word
+    Jurassic Park System Secruity Interface
     
 ![JP](/fun/JP/as/Capture.PNG)
