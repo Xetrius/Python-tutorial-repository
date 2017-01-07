@@ -3,4 +3,4 @@
 ##JP
     you didnt say the magic word
     
-![JP](/JP/as/Capture.PNG)
+![JP](/fun/JP/as/Capture.PNG)
