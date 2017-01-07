@@ -1,12 +1,11 @@
 #!/usr/bin/env python3
 import time
 import webbrowser
-
+'''
 print("Jurassic Park System Secruity Interface")
 print("Version 4.0.5, Alpha E")
 print("Ready...")
 
-'''
 while True:
     var1 = input(">")
     if var1 == "access main security grid":
