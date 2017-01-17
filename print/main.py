@@ -19,7 +19,8 @@ print("hello", var1)
 var2 = str(input("type hello\n"))
 print(var2, "world")
 
-'''
-print("")
-print("")
-'''
+
+print("hello")
+print('\n' * 5)
+print("world")
+
