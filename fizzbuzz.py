@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 print("FizzBuzz")
 var2 = int(input("high number?\n"))
 var = 0
